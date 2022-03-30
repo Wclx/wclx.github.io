@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200&display=swap');@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200&display=swap');
+
+.barra{
+    height: 80px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    position: fixed;
+    box-sizing: border-box;
+}
+
+.logo{
+    margin-left: 24px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+
+.logoP{
+    height: 32px;
+    width: 32px;
+    color: #e60023;
+}
+
+.pinterest{
+    height: 26px;
+    width: 50px;
+}
